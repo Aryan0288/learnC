@@ -26,6 +26,13 @@ void primesieve(int n)
     cout << endl;
 }
 
+// Q.2 Prime Factorisation
+
+void primefactorisation()
+{
+    ;
+}
+
 int main()
 {
     int n;
